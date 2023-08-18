@@ -40,24 +40,11 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "shuttlecord", "development"]
+      "pages": ["introduction", "shuttlecord"
     },
     {
-      "group": "Essentials",
+      "group": "F&Q ShuttleCord",
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
-    },
-    {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
-      ]
     }
   ],
   "footerSocials": {
